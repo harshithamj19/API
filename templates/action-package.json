@@ -1,0 +1,10 @@
+{
+  "name": "<%= actionName %>",
+  "private": true,
+  "fluct": {
+    "contentType": "text/html",
+    "httpMethod": "GET",
+    "path": "/dummy",
+    "statusCode": 200
+  }
+}
